@@ -1,2 +1,3 @@
-# CivicConcerns
-CivicConcerns is a citizen grievance management platform that helps users report, track, and manage civic issues efficiently. It provides an intuitive interface for submitting complaints, monitoring progress, and improving communication between citizens and local authorities through a responsive and scalable web application.
+CivicConcerns
+
+CivicConcerns is a citizen grievance management platform that enables users to report, track, and manage civic issues efficiently. The application provides a user-friendly interface for submitting complaints, monitoring their status, and improving communication between citizens and local authorities.
